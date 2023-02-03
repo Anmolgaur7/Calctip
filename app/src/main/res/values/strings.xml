@@ -3,4 +3,7 @@
     <string name="head">Tip to be given</string>
     <string name="tip">Tip Amount :: ₹</string>
     <string name="label">Cost of Service</string>
+    <string name="tipp">Tip %</string>
+    <string name="round">Round of tip</string>
+
 </resources>
